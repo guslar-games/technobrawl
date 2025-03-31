@@ -1,0 +1,1 @@
+This folder should be ignored. Use it to test in scene.
