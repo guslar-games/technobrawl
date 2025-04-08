@@ -10,7 +10,8 @@ Technobrawl is a fast-paced, top-down arena shooter where players pilot customiz
 
 ![Screenshot 2025-03-28 at 16 02 18](https://github.com/user-attachments/assets/17dd6436-bd3a-47c5-a01e-0fb697e17c19)
 
-## Ignored Directory
+## The Testing Directory
 When testing the game objects and their interactions, you will need to use a game scene.
-To avoid merge conflicts, we will use an **Ignored** directory in which each of us can have our own scenes for testing.
-As these scenes will not be pushed, be sure to have all your work in prefabs, scripts, and scriptable objects.
+To avoid merge conflicts, we will use an a separate directory in which each of us can have our own scenes for testing. 
+
+Inside the Assets/Testing directory create a folder with your name and make sure to prefix all testing classes with your name to avoid conflicting with non-testing work.
