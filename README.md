@@ -3,10 +3,11 @@ Technobrawl is a fast-paced, top-down arena shooter where players pilot customiz
 
 ## Instalation
 1. Install **Unity HUB** 
-2. Install the Unity version **6000.0.43f1**
+2. Install the Unity version **6000.5.3f1**
 3. In the upper right corner in *Unity HUB > Projects* click the button **Add**
 4. In the menu, select the option **Add project from disk**
 5. Select the root folder of the project you downloaded from this repo
+6. If Unity prompts for TextMesh Pro, import the TMP essential resources from `Window > TextMeshPro > Import TMP Essential Resources`
 
 ![Screenshot 2025-03-28 at 16 02 18](https://github.com/user-attachments/assets/17dd6436-bd3a-47c5-a01e-0fb697e17c19)
 
