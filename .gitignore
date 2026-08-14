@@ -41,8 +41,6 @@ Temporary Items
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/[Ii]gnore/
-/[Ii]gnored/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -527,6 +525,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+**/.idea/
+**/.idea/**
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
